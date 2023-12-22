@@ -9,3 +9,7 @@ Backtracking é um refinamento do algoritmo de busca por força bruta, que tamb�
 ![image](https://github.com/MarianVulpes/NQueenProblem/assets/82874011/de771e4f-5f79-4925-8b1f-1148950aed1c)
 <br>
 Imagem retirada de: https://www.simplilearn.com/tutorials/data-structure-tutorial/backtracking-algorithm
+
+# Referência do código
+Utilizei este guia passo a passo como referência:: https://medium.com/cracking-the-coding-interview-in-ruby-python-and/8-12-the-8-queens-problem-with-solutions-ruby-javascript-and-python-409cea33b5b3
+O problema com ele é que apenas apresenta as primeiras soluções encontradas por meio do backtracking. Por isso, fiz melhorias para que agora busque todas as soluções possíveis.
